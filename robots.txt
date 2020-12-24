@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Disallow: /admin/
+Sitemap: https://tristanfletcher.com/sitemap.xml
